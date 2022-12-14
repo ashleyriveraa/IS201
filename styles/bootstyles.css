@@ -1,0 +1,39 @@
+.left{float: left}
+.center{text-align: center}
+.right {float: right}
+
+.bg{background-image: url(../images/offwhite.jpeg);
+background-position: bottom right;
+background-repeat: repeat}
+
+
+.header{
+    top: 0px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    color: deeppink;
+    background-color: lightpink}
+    
+.textwhite{color: darkmagenta}
+
+.thickbox{
+    border-width: thick;
+    border-style: solid;
+    border-color: salmon}
+
+.caption{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    color: darkmagenta;
+    background-color: rgb(233, 153, 215)}
+
+.footer{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    color: rgb(202, 96, 202);
+    text-align: center}
